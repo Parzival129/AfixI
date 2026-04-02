@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="64" fill="#0a1a0f"/>
+  <!-- Gear outline -->
+  <g transform="translate(256,256)">
+    <path d="M0,-140 L30,-130 L40,-100 L70,-95 L85,-120 L115,-105 L105,-75 L125,-55 L140,-30 L130,0 L140,30 L125,55 L105,75 L115,105 L85,120 L70,95 L40,100 L30,130 L0,140 L-30,130 L-40,100 L-70,95 L-85,120 L-115,105 L-105,75 L-125,55 L-140,30 L-130,0 L-140,-30 L-125,-55 L-105,-75 L-115,-105 L-85,-120 L-70,-95 L-40,-100 L-30,-130 Z"
+      fill="none" stroke="#22c55e" stroke-width="12" opacity="0.3"/>
+    <circle r="60" fill="none" stroke="#22c55e" stroke-width="8" opacity="0.2"/>
+  </g>
+  <!-- Leaf icon -->
+  <g transform="translate(256,240)">
+    <path d="M0,60 C0,60 -10,20 -5,-30 C0,-80 50,-110 80,-120 C80,-120 70,-70 50,-30 C30,10 0,60 0,60 Z"
+      fill="#22c55e" opacity="0.9"/>
+    <path d="M0,60 C0,60 5,-10 40,-60"
+      fill="none" stroke="#0a1a0f" stroke-width="3" stroke-linecap="round"/>
+    <path d="M15,-20 C15,-20 30,-40 40,-60" fill="none" stroke="#0a1a0f" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <path d="M5,15 C5,15 25,-10 40,-30" fill="none" stroke="#0a1a0f" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  </g>
+  <!-- Text -->
+  <text x="256" y="420" text-anchor="middle" fill="#22c55e" font-family="sans-serif" font-weight="bold" font-size="72">AfixI</text>
+</svg>
